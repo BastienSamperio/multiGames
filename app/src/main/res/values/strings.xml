@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Game</string>
+    <string name="create_player_welcome">Bonjour !</string>
+    <string name="create_player_name">Nom</string>
+    <string name="create_player_lastname">Prénom</string>
+    <string name="create_player_age">Age</string>
+    <string name="create_player_localisation">Localisation</string>
+    <string name="create_player_player">Joueurs</string>
+    <string name="create_player_validate">Valider</string>
+
+</resources>
